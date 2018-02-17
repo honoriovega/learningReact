@@ -13,6 +13,10 @@ ol, ul {
   display: table;
 }
 
+.reset {
+  text-align:center;
+}
+
 .status {
   margin-bottom: 10px;
 }
